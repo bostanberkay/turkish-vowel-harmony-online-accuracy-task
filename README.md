@@ -1,6 +1,6 @@
 # Turkish Vowel Harmony Online Accuracy Task for PCIbex
 
-This repository contains the PCIbex experiment script for the online accuracy task used in the study:
+This repository contains the PCIbex experiment script for the online accuracy task used in the research:
 
 **“Eyes on the Pupil Size: Pupillary Sensitivity to Morphophonological Mismatches in Turkish”**  
 Ali Çağan Kaya, Berkay Bostan, İpek Pınar Uzun  
